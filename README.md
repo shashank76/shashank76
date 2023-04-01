@@ -6,13 +6,14 @@
 
 I'm Shashank tripathi!
 
-- 🤔  Exploring new technologies and developing software    solutions to our worlds tech problems.
+- 🤔  Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓  Pursuing MS in Computer Science at University of Illinois at Springfield.
 
 
 <h2>💻 I'm Currently working on</h2>
 
-- System Design and Data Visualization
+- Machine Learning
+- Big Data Analytics
 - Software Engineering
 
 ### 🛠 &nbsp;Tech Stack
@@ -23,6 +24,7 @@ I'm Shashank tripathi!
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-05122A?style=flat&logo=postgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
