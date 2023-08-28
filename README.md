@@ -13,7 +13,10 @@ I'm Shashank tripathi!
 <h2>💻 I'm Currently working on</h2>
 
 - Machine Learning
+- Deep Learning and Natural Language Processing
 - Big Data Analytics
+- System Design
+- Data Visualization
 - Software Engineering
 
 ### 🛠 &nbsp;Tech Stack
