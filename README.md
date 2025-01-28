@@ -6,18 +6,19 @@
 
 I'm Shashank tripathi!
 
-- 🤔  Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓  Pursuing MS in Computer Science at University of Illinois at Springfield.
+- 🤔 Passionate about leveraging cutting-edge technologies to design and develop innovative software solutions that address complex real-world challenges.
+- 🎓 Earned a Master of Science in Computer Science from the University of Illinois at Springfield, graduating in May 2024, with a focus on scalable software development, machine learning, and cloud-based architectures.
 
 
 <h2>💻 I'm Currently working on</h2>
 
-- Machine Learning
-- Deep Learning and Natural Language Processing
-- Big Data Analytics
-- System Design
-- Data Visualization
-- Software Engineering
+- Developing full-stack applications using Ruby on Rails, with a focus on building robust backend solutions and scalable APIs
+- Enhancing React.js and Vue.js projects by creating dynamic, user-friendly interfaces and optimizing frontend performance
+- Building and deploying scalable machine learning models for data-driven decision-making
+- Designing and managing big data pipelines for efficient extraction, transformation, and analysis
+- Crafting innovative system designs that emphasize scalability, reliability, and maintainability
+- Creating interactive data visualizations using tools to present complex data in meaningful ways
+- Strengthening software engineering practices with test-driven development (TDD), CI/CD pipelines, and secure coding methodologies
 
 ### 🛠 &nbsp;Tech Stack
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=red)&nbsp;
@@ -26,6 +27,7 @@ I'm Shashank tripathi!
 ![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=ruby-on-rails&logoColor=red)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-05122A?style=flat&logo=postgreSQL)&nbsp;
@@ -47,6 +49,9 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
+    <a href="https://github.com/shashank76/rails-graphql">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashank76&repo=rails-graphql" alt="GitHub Stats" />
+    </a>
     <a href="https://github.com/shashank76/grpc_demo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashank76&repo=grpc_demo" alt="GitHub Stats" />
     </a>
@@ -56,9 +61,7 @@ __Check out my GitHub repository:__
     <a href="https://github.com/shashank76/vuerails_demo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashank76&repo=vuerails_demo" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/shashank76/shortener">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashank76&repo=shortener" alt="GitHub Stats" />
-    </a>
+
   </p>
 </div>
 
